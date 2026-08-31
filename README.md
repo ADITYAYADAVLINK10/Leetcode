@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0344-reverse-string) |
@@ -52,4 +55,12 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
