@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
