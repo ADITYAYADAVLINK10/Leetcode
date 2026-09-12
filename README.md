@@ -16,6 +16,7 @@
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 | [1683-invalid-tweets](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1873-calculate-special-bonus) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
