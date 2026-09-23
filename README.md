@@ -17,6 +17,7 @@
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -54,6 +56,7 @@
 | [0344-reverse-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
