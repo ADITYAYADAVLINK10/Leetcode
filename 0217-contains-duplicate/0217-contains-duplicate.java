@@ -1,12 +1,12 @@
 import java.util.Hashtable;
 class Solution {
-    public boolean containsDuplicate(int[] nums) {
-        Hashtable<Integer,Integer> n=new Hashtable<>();
-        for(int i=0;i<nums.length;i++){
-            if(n.containsKey(nums[i])){
-                return true;
+   public boolean containsDuplicate(int[] nums) {
+        HashSet<Integer> n=new HashSet<>();
+        for(int vol:nums){
+            if(!n.contains(vol)){
+                n.add(vol);
             }else{
-                n.put(nums[i],nums[i]);
+                return true;
             }
         }
         return false;
