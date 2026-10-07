@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -38,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -62,6 +65,7 @@
 | [0189-rotate-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
