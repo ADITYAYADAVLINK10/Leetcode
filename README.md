@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0027-remove-element) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
