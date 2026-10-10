@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
