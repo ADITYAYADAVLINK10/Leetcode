@@ -78,6 +78,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/0344-reverse-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ADITYAYADAVLINK10/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
